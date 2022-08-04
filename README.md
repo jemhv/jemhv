@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jemhv alias Jeremy Harvard
+- 👀 I’m interested in ... Being a doctor and machine laerning expert. Also wanna learn hacking!
+- 🌱 I’m currently learning ... both of the above.
+- 💞️ I’m looking to collaborate on ... nothing pretty much.
+- 📫 How to reach me ... I will be publishing research papers!
