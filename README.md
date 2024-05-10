@@ -1,4 +1,4 @@
-![joker.gif](https://media1.tenor.com/m/X100JAqP_TwAAAAC/the-joker-jared-leto.gif)
+![denji.gif](https://64.media.tumblr.com/e7dc8cca012d65ed8c2c61a60925f06d/599f5436c9fd56ce-2b/s540x810/79074377e19ae6ba9c162422aa27842794e2f4d1.gif)
 
 # Hello there
 #### Thanks for stopping by. Let me introduce myself 
@@ -35,5 +35,4 @@ me.say_bye()
 ```
 
 ## Ok, bye 
-![joker.gif](https://media1.tenor.com/m/XGCDxCe9cZcAAAAC/heath-ledger-joker.gif)
 
